@@ -46,7 +46,7 @@ spinnaker:
 This snippet needs to be accessible by Echo. 
 Your exact path for configuring this plugin depends on the Spinnaker configuration
 tool you're using (Halyard, the operator, Kleat, etc.). 
-Please see the plugin installation guides on [spinnaker.io](https://spinnaker.io/guides/user/plugins). 
+Please see the plugin installation guides on [spinnaker.io](https://spinnaker.io/docs/guides/user/plugins-users/). 
 
 ## Known bugs
 
